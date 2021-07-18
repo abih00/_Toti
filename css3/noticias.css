@@ -1,0 +1,144 @@
+body {
+    font-Family:"open sans", sans-serif; 
+    font-weight:400;
+    font-size: 12px;
+  }
+  
+  .menu {
+    background-color: #2280A6;
+  }
+  .menu__item {
+    
+    font-size:12px;
+    text-transform: Uppercase; 
+    color: #FFFFFF;
+    Opacity : .7;
+    }
+  
+  .menu__item:hover { 
+  opacity: 1; 
+  }
+  
+  .destaque {
+    background-color: #0A0B14
+  }
+  .destaque__titulo {
+    font-family: "PT sans Narrow";
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #ffffff;
+  }
+  
+  .card__titulo {
+    font-family:"PT sans Narrow";
+    font-size: 26px;
+    line-height: 20px;
+    color: #3e4248;
+   }
+  .card__titulo:hover{
+    opacity:0.7;
+  }
+  .card__data {
+    color: #999999;
+  }
+  
+    .card_autor {
+      color:#229fd3;
+      text-decoration: none;
+    
+  }
+  
+  .card__descricao{
+    font-family:'Encode Sans SC', sans-serif;
+    font-size:14px;
+    line-height:18px;
+    color:#666666;
+    opacity: 0.5;
+     
+  }
+  
+  .menu__1 {
+    font-family: 'Encode Sans SC', sans-serif;
+    font-weight:400;
+    font-size: 12px;
+  }
+  
+  .menu__item1 {
+  background-color: #188038;
+    font-family:'Anton', sans-serif;
+      font-size:12px;
+    text-transform: Uppercase; 
+    color: #ffffff;
+    Opacity : .7;
+  }
+    
+    .menu__item1:hover{
+      opacity: 1;
+      
+  }
+  
+  .destaque__titulo1 {
+    
+    background-color:#4B93EA;
+      font-family:'Encode Sans SC', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color:#000000 ;
+  }
+  
+  .breand__titulo4 {
+    font-family:'Playfair Display', serif;
+    color:#666666;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #1D1E22;
+    font-size: 26px;
+    line-height:50px;
+  }
+  
+  .card__data1{
+    font-family:'Encode Sans SC', sans-serif;
+    color: #D8493F; }
+  
+  .card__autor1 {
+    font-family:'Encode Sans SC', sans-serif;
+    color: #2670E8;
+    }
+  .card__descricao1 {
+    font-family:'Encode Sans SC', sans-serif;
+    font-size:14px;
+    line-height:18px;
+    color:#666666;
+    opacity: 0.7;
+       }  
+
+  .noticia__1{
+    font-family:'CNNSansDisplay, Arial, Helvetica, sans-serif';
+   }
+   
+  .breand__titulo4 {
+    
+    font-family:'Encode Sans SC', sans-serif;
+    color:#666666;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #1D1E22;
+   font-family: 'Encode Sans SC', sans-serif;
+    font-size: 26px;
+    line-height: 50px;
+  }
+  
+  .card__data2{
+    
+        font-family:'Encode Sans SC', sans-serif;
+        color: #7705c4; }
+    
+  
+  .Noticia__2 {
+    font-family:'Encode Sans SC', sans-serif;
+  }
+  

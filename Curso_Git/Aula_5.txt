@@ -1,0 +1,398 @@
+    1  ls
+    2  ls -a
+    3  ls..
+    4  ls ..
+    5  ls
+    6  cd desktop
+    7  pwd
+    8  cd ~
+    9  cd desktop
+   10  mkdir comandos
+   11  ls
+   12  mkdir pasta nova
+   13  ls
+   14  mkd ¨ pastanova
+   15  mkdir ''pasta nova''
+   16  ls
+   17  rm - r nova pasta
+   18  mv 'pasta nova' Pasta-nova
+   19  ls
+   20  touch arquivo.txt nova
+   21  ls
+   22  'mensagem'
+   23  echo 'mensagem' > comando.txt
+   24  cat
+   25  cat > comando.txt
+   26  cat >> comando.TXT
+   27  cat > comando.txt
+   28  help cd
+   29  clear
+   30  history
+   31  history 5
+   32  history 7
+   33  history > historico.txt
+   34  hstory - c
+   35  touch readme.md
+   36  echo "" > readme.md
+   37  cat > readme.md]
+   38  touch readme.md
+   39  ls
+   40  clear
+   41  git config --global user.name 'abelardo sukkar'
+   42  git config --global user.email 'abelardosukkarg@gmail.com'
+   43  $ git config --global user.email 'abelardosukkarg@gmail.com'
+   44  clear
+   45  git config --global user.name "abelardo sukkar'
+   46  clear
+   47  clear
+   48  git config --global user.name 'abelardo sukkar'
+   49  git config --global user.name "abelardo sukkar'
+   50  clear
+   51  clear
+   52  git config --global user.name 'abelardo sukkar'
+   53  git config --global user.email 'abelardosukkarg@gmail.com'
+   54  git config --global user.email 'abelardosukkarg@gmail.com'
+   55  git config user.name
+   56  cd desktop
+   57  mkdir Curso_git/
+   58  git config user.name
+   59  git init
+   60  git status
+   61  echo '#aprendendo usar o git' > readme.md
+   62  git status
+   63  git ass readme.md
+   64   git add readme.md
+   65  git status
+   66  git add arquivo.txt
+   67  git commut -m 'commit inical'
+   68  git status
+   69  echo '##Aula 1' >> readme.md 
+   70  git status
+   71  echo 'abelardo sukkar' > participantes.txt
+   72  git status
+   73  git add .
+   74  git status
+   75  git restore --staged participantes.txt
+   76  git status
+   77  git restore --staged .
+   78  git status
+   79  git commit -am
+   80  git config --global user.name 'abelardo sukkar'
+   81  git config --global user.email 'abelardosukkarg@gmail.com
+   82  '
+   83  git config --global user.email 'abelardosukkarg@gmail.com
+   84  git config --global user.email 'abelardosukkarg@gmail.com
+   85  git log
+   86  git status
+   87  git config -- global user.name (abelardo sukkar)
+   88  clear
+   89  git config -- user.name 'abelardo sukkar'
+   90  git config --global user.name 'abelardo sukkar'
+   91  git config --global user.email 'abelardosukkarg@gmail.com'
+   92  user.name
+   93  git config user.name
+   94  cd desktop
+   95  mkdir curso-Git
+   96  git config user.name
+   97  git init
+   98  git status
+   99  echo'amoramor' . read.me
+  100  git status
+  101  git commit -m 'comit inicial'
+  102  git add curso/
+  103  git status
+  104  history c
+  105   git log
+  106  git logi --pretty=oneline
+  107  git log --pretty=oneline
+  108  git log-- stat
+  109  git log --stat
+  110  git log p
+  111   git log -p
+  112  git log --author= 'abelardo sukkar'
+  113  git log --author='abelardo sukkar'
+  114  git log --since=2.days 
+  115  git status
+  116  git user.name
+  117  git status
+  118  git global user.name 'abelardo sukkar'
+  119  ls
+  120  git init
+  121  clear
+  122  git log
+  123  git remote add origin $ git remote add origin ^C^V
+  124  history
+  125  git $ git
+  126  mkdir
+  127  git branch
+  128  git checkout -b feature
+  129  gith branch
+  130  git branch
+  131  touch nova_fauture
+  132  git log
+  133  git log stat
+  134  git commit
+  135  git add .
+  136  clear
+  137  git config --global user.name 'abelardosukkar'
+  138  git user.name
+  139  clear
+  140  git banch
+  141  git branch
+  142  git checkout -b 'feature'
+  143  touch nova_feature
+  144  git status
+  145  ls
+  146  git commit
+  147  git add ..
+  148  git status
+  149  git add .
+  150  git checkout
+  151  reset[; reset; ; ; ; 
+  152  git reset
+  153  ls
+  154  history
+  155  clear
+  156  git branch
+  157  git checkout -b 'abelardo'
+  158  git branch
+  159  touch nova_feature
+  160  git status
+  161  git status
+  162  git status
+  163  rest
+  164  git rest
+  165  git restore
+  166  clear
+  167  ls
+  168  git add 
+  169  git status
+  170  git commit
+  171  git add ..
+  172  clear
+  173  ls -a
+  174  ls..
+  175  ls ..
+  176  pwd
+  177  cd desktout
+  178  cd d
+  179  cd comandos
+  180  mkdir pasta nova
+  181  ls
+  182  cd deskot/
+  183  ls
+  184  cd
+  185  cd~
+  186  cd ~
+  187  ls
+  188  cd pasta/
+  189  ls
+  190  ls
+  191  pwd
+  192  cd..
+  193  cd ..
+  194  ls
+  195  cd pasta/
+  196  ls
+  197  mkdir comandos
+  198  ls
+  199  mkdir pasta nova
+  200  ls
+  201  mkdir 'pasta nova'
+  202  ls
+  203  mkdir -p new
+  204  ls
+  205  rm -r nova pasta
+  206  ls
+  207  mv new new/
+  208  ls
+  209  ls comandos
+  210  cd comandos
+  211  touch arquivo.net
+  212  ls
+  213  echo 'mensagem' > comando.txt
+  214  cat comando.txt
+  215  cat
+  216  cat 
+  217  cat >> comando.txt
+  218  cat comando.txt
+  219  help
+  220  clear
+  221  git branch -d abelardo
+  222  git branch - d abelardo/
+  223  git config --global user.name 'abelardo sukkar'
+  224  git config --global user.email 'abelardosukkarg@gmail.com'
+  225  git config user.name
+  226  cd deskout
+  227  cd deskout/
+  228  ls -a
+  229  cd pasta/
+  230  git config user.name
+  231  git init
+  232  git status
+  233  echo '#aprendendo a usar o git' > readme.md
+  234  git status
+  235  git add readme.md
+  236  git status
+  237  git commit -m 'commit inicial'
+  238  git status
+  239  echo '##aula 1' >> readme.md
+  240  echo 'abelardo sukkar' > participante.txt
+  241  git status
+  242  git edd .
+  243  git add .
+  244  git status
+  245  git restore --staged .
+  246  git status
+  247  git commit -am ''alteraçao no readme'
+  248  git add comandos/
+  249  git status
+  250  git status
+  251  git add read.me
+  252  git add readme.md
+  253  git status
+  254  git add participante.txt
+  255  git status
+  256  git commit - 'adicionado participante.txt
+  257  history > Aula_3.txt
+  258  git commit - 'adicionado participante.txt
+  259  history > Aula_3.txt
+  260  git status
+  261  git add .
+  262  git commit -m ' comandos d aula 3'
+  263  git config --global alias. logpg 'log --pretty=oneline --graph'
+  264  git config --global alias. logpg 'log --pretty=oneline --graph'
+  265  git log
+  266  git ls commit
+  267  git alias tah
+  268  git alias tag
+  269  git config tag
+  270  git tag
+  271  git tag -a v0.1 -m 'ate a aula 5'
+  272  ls
+  273  git ls
+  274  history
+  275  ls
+  276  cd pasta/
+  277  clear
+  278  git rest
+  279  user.name
+  280  git config --global user.name 'abelardo sukkar'
+  281  user.name
+  282  git config user.name
+  283  cd desktop
+  284  mkdir Curso_git
+  285  git config user.name
+  286  git init
+  287  git status
+  288  echo '#aprendendo usar o git' > readme.md
+  289  git status
+  290  git add readme.md
+  291  clear
+  292  git log
+  293  git log --pretty=oneline
+  294  git log --stat
+  295  cd curso_git
+  296  ls
+  297  cd curso_git
+  298  git status
+  299  pwd
+  300  git log
+  301  x
+  302  clear
+  303  ls
+  304  clear
+  305  git status
+  306  git deskot 
+  307  clear
+  308  git bash
+  309  clear
+  310  cd
+  311  cd
+  312  clear
+  313  ce deskout
+  314  cd deskout
+  315  cd desckout/
+  316  clear
+  317  pwd
+  318  cd ls
+  319  cd
+  320  cd deskot
+  321  git config --global user.name 'abelardo sukkar'
+  322  git config --global user.email 'abelardosukkarg@gmail.com'
+  323  git config user.name
+  324  cd desktop/
+  325  mkdir Curso_Git
+  326  cd Curso_Git/
+  327  git config user.name
+  328  git init
+  329  git status
+  330  echo '3aprendendo usar o git' . readme.md
+  331  git status
+  332  cd Curso_git
+  333  cd Curso_Git
+  334  ls
+  335  pwd
+  336  git status
+  337  gis desckout
+  338  git descckout
+  339  git deskout
+  340  clear
+  341  /c/Users/user/Desktop/Curso_Git
+  342  cd /c/Users/user/Desktop/Curso_Git
+  343  ls
+  344  mv Curso_Git Curso_Git01
+  345  mv Curso_Git01
+  346  mv Curso_Git/ Curso_Git01 
+  347  git mv Curso_Git Curso_Git01
+  348  git mv <Curso_Git> <Curso_Git01>
+  349  git mv [Curso_Git] [Curso_Git01]
+  350  git mv Curso_Git Curso_Git01
+  351  ls
+  352  git config --globar user.name
+  353  git config --global user.name
+  354  mv Curso_Git 'Curso_Git01
+  355  mv Curso_Git 'Curso_Git01'
+  356  clear
+  357  mkdir Hello_people
+  358  cd Hello_people
+  359  touch participantes.txt
+  360  ls
+  361  cd participantes.txt
+  362  cat participantes.txt
+  363   ssss
+  364  git remote add origin https://github.com/abih00/Curso_Git1.git
+  365  cd /c/Users/user/Desktop/Curso_Git
+  366  ls
+  367  .ls
+  368  ls .
+  369  git remote add origin https://github.com/abih00/Curso_Git1.git
+  370  git remote
+  371  git push origin master
+  372  git push origim master
+  373  cd..
+  374  cd ..
+  375  cd Curso_Git
+  376  git remote add origin https://github.com/abih00/Curso_Git1.git
+  377  git remote
+  378  git push origim master
+  379  cd /c/Users/user/Desktop/Curso_Git
+  380  git remote add origin https://github.com/abih00/Curso_Git1.git
+  381  git status
+  382  echo '#Curso_Git1' >> README.md
+  383  git remote add origin https://github.com/abih00/Curso_Git1.git.
+  384  pwd
+  385  clear
+  386  git branch
+  387  git checkout -b abelardo
+  388  git checkout master
+  389  git branch abelardo
+  390  git merge master
+  391  git log --pretty=oneline--graph
+  392  git log --pretty=oneline --graph
+  393  git rebase master
+  394  git log --pretty=oneline --graph
+  395  history > Aula_5
+  396  ls
+  397  ls
+  398  history > Aula_5.txt
